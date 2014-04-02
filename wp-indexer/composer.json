@@ -1,0 +1,9 @@
+{
+    "name": "WPIndexer",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+    	"ruflin/elastica": "v0.90.1.0"
+    }
+}
